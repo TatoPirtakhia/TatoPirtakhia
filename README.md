@@ -2,7 +2,7 @@
 [![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)](https://github.com/TatoPirtakhia)
 <h1 align="center">Hi 👋, I'm Tato</h1>
 <h3 align="center">A passionate Full-stack developer from Georgia</h3>
-<img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatopirtakhia&label=Profile%20views&color=0e75b6&style=flat" alt="tatopirtakhia" /> </p>
 
 <h3 align="left">Connect with me:</h3>
