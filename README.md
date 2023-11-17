@@ -1,5 +1,4 @@
 
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)](https://github.com/TatoPirtakhia)
 <h1 align="center">Hi 👋, I'm Tato</h1>
 <h3 align="center">A passionate Full-stack developer from Georgia</h3>
 
