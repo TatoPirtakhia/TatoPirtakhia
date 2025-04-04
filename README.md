@@ -1,9 +1,32 @@
 <h1 align="center">Hi 👋, I'm Tato</h1>
 <h3 align="center">A passionate Full-stack developer from Georgia</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tatopirtakhia&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" />
+  <img src="https://img.shields.io/github/followers/tatopirtakhia?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tatopirtakhia&theme=radical&row=1&column=7" alt="trophies" />
+  </a>
+</p>
+
+<!-- About Me Section -->
+<h3 align="left">🚀 About Me</h3>
+<p align="left">
+  💻 I'm currently working on improving my full-stack development skills<br>
+  🌱 I'm currently learning advanced React patterns and microservices architecture<br>
+  👯 I'm looking to collaborate on open source projects<br>
+  💬 Ask me about JavaScript, React, Node.js, and modern web development
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tato2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tato2000" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tato2000" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tato2000" height="30" width="40" />
+  </a>
+  <!-- You can add more social links here -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,8 +90,71 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatopirtakhia&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" /></p>
+<!-- GitHub Stats Section -->
+<h2 align="center">📊 My GitHub Statistics</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" /></p>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatopirtakhia&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tatopirtakhia&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatopirtakhia&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatopirtakhia&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+<!-- WakaTime Stats (Uncomment if you're using WakaTime) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tatopirtakhia&theme=radical" alt="WakaTime Stats" />
+</p>
+-->
+
+<!-- Featured Repositories -->
+<h2 align="center">💻 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/tatopirtakhia/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tatopirtakhia&repo=project1&theme=radical" alt="Project 1" width="45%" />
+  </a>
+  <a href="https://github.com/tatopirtakhia/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tatopirtakhia&repo=project2&theme=radical" alt="Project 2" width="45%" />
+  </a>
+</p>
+
+<!-- Coding Metrics (Uncomment if you want to use them) -->
+<!--
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/tatopirtakhia"><img alt="Tato's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tatopirtakhia&custom_title=Tato's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+</details>
+-->
+
+<!-- GitHub Metrics -->
+<details>
+  <summary><b>📈 GitHub Metrics</b></summary>
+  <br/>
+  <img src="https://metrics.lecoq.io/tatopirtakhia?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Europe%2FTbilisi" alt="GitHub Metrics" />
+</details>
+
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tatopirtakhia/tatopirtakhia/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<!-- Footer -->
+<h3 align="center">Thanks for visiting! 👋</h3>
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
+</p>
