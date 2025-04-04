@@ -113,46 +113,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatopirtakhia&theme=react-dark" alt="Contribution Graph" />
 </p>
 
-<!-- WakaTime Stats (Uncomment if you're using WakaTime) -->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tatopirtakhia&theme=radical" alt="WakaTime Stats" />
-</p>
--->
-
-<!-- Featured Repositories -->
-<h2 align="center">💻 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/tatopirtakhia/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tatopirtakhia&repo=project1&theme=radical" alt="Project 1" width="45%" />
-  </a>
-  <a href="https://github.com/tatopirtakhia/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tatopirtakhia&repo=project2&theme=radical" alt="Project 2" width="45%" />
-  </a>
-</p>
-
-<!-- Coding Metrics (Uncomment if you want to use them) -->
-<!--
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/tatopirtakhia"><img alt="Tato's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=tatopirtakhia&custom_title=Tato's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
--->
-
-<!-- GitHub Metrics -->
-<details>
-  <summary><b>📈 GitHub Metrics</b></summary>
-  <br/>
-  <img src="https://metrics.lecoq.io/tatopirtakhia?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Europe%2FTbilisi" alt="GitHub Metrics" />
-</details>
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tatopirtakhia/tatopirtakhia/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
 <!-- Footer -->
 <h3 align="center">Thanks for visiting! 👋</h3>
 <p align="center">
