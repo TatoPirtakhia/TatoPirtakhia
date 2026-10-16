@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tatopirtakhia&label=PROFILE+VIEWS&color=8b5cf6&style=flat-square" alt="Profile views counter" />
-  <a href="https://github.com/tatopirtakhia?tab=followers"><img src="https://img.shields.io/github/followers/tatopirtakhia?label=Followers&style=flat-square&color=22d3ee&labelColor=161b22" alt="GitHub followers" /></a>
-  <a href="https://github.com/tatopirtakhia?tab=repositories"><img src="https://img.shields.io/github/stars/tatopirtakhia?affiliations=OWNER&label=Repository%20stars&style=flat-square&color=fbbf24&labelColor=161b22" alt="Stars across owned repositories" /></a>
+  <a href="https://github.com/tatopirtakhia?tab=followers"><img src="https://img.shields.io/github/followers/tatopirtakhia?label=Followers&style=flat-square&color=22d3ee&labelColor=161b22&cacheSeconds=3600&v=2" alt="GitHub followers" /></a>
+  <a href="https://github.com/tatopirtakhia?tab=repositories"><img src="https://img.shields.io/github/stars/tatopirtakhia?label=Repository%20stars&style=flat-square&color=fbbf24&labelColor=161b22&cacheSeconds=3600&v=2" alt="Stars across owned repositories" /></a>
 </p>
 
 ---
@@ -67,11 +67,11 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tatopirtakhia&theme=github_dark" alt="Public commit distribution by language" />
 </p>
 
-### Recent contribution activity
+### Contribution calendar
 
 <p align="center">
   <a href="https://github.com/tatopirtakhia">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tatopirtakhia&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&radius=16&custom_title=Tato%27s%20Contribution%20Activity" alt="Recent daily GitHub contribution activity" />
+    <img width="100%" src="https://ghchart.rshah.org/22d3ee/tatopirtakhia" alt="GitHub contribution calendar for the past year" />
   </a>
 </p>
 
@@ -85,3 +85,4 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:22D3EE&height=100&section=footer" alt="Purple and cyan wave footer" />
+
