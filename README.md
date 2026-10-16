@@ -1,120 +1,87 @@
-<h1 align="center">Hi 👋, I'm Tato</h1>
-<h3 align="center">A passionate Full-stack developer from Georgia</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:22D3EE&height=220&section=header&text=Tato%20Pirtakhia&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer%20%7C%20Georgia&descAlignY=60&descSize=18" alt="Tato Pirtakhia — Full-stack Developer from Georgia" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tatopirtakhia&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" />
-  <img src="https://img.shields.io/github/followers/tatopirtakhia?label=Followers&style=social" alt="followers" />
+  <strong>From a first idea to a working web experience.</strong><br />
+  Building with JavaScript, React, and Node.js — always learning, always improving.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tatopirtakhia&theme=radical&row=1&column=7" alt="trophies" />
-  </a>
+  <a href="https://github.com/tatopirtakhia?tab=repositories"><img src="https://img.shields.io/badge/Explore_my_work-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://www.linkedin.com/in/tato2000/"><img src="https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
-
-<!-- About Me Section -->
-<h3 align="left">🚀 About Me</h3>
-<p align="left">
-  💻 I'm currently working on improving my full-stack development skills<br>
-  🌱 I'm currently learning advanced React patterns and microservices architecture<br>
-  👯 I'm looking to collaborate on open source projects<br>
-  💬 Ask me about JavaScript, React, Node.js, and modern web development
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/tato2000" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tato2000" height="30" width="40" />
-  </a>
-  <!-- You can add more social links here -->
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-</p>
-
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 My GitHub Statistics</h2>
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tatopirtakhia&show_icons=true&locale=en&layout=compact&count_private=true&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatopirtakhia&include_all_commits=true&theme=radical&token=GH_TOKEN" alt="tatopirtakhia" />
+  <img src="https://komarev.com/ghpvc/?username=tatopirtakhia&label=PROFILE+VIEWS&color=8b5cf6&style=flat-square" alt="Profile views counter" />
+  <a href="https://github.com/tatopirtakhia?tab=followers"><img src="https://img.shields.io/github/followers/tatopirtakhia?label=Followers&style=flat-square&color=22d3ee&labelColor=161b22" alt="GitHub followers" /></a>
+  <a href="https://github.com/tatopirtakhia?tab=repositories"><img src="https://img.shields.io/github/stars/tatopirtakhia?affiliations=OWNER&label=Repository%20stars&style=flat-square&color=fbbf24&labelColor=161b22" alt="Stars across owned repositories" /></a>
 </p>
 
-<!-- Activity Graph -->
+---
+
+## A little about me
+
+I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole journey: a thoughtful interface, a clear API, and the data behind it.
+
+- **Currently sharpening:** full-stack development and advanced React patterns.
+- **Exploring:** microservices architecture and how services work together.
+- **Open to:** collaborating on open-source projects.
+- **Let's talk about:** JavaScript, React, Node.js, and modern web development.
+
+## My toolbox
+
+| Frontend | Backend & data | Tools & environment |
+| :--- | :--- | :--- |
+| JavaScript · TypeScript · React | Node.js · Express | Git · Docker · Linux |
+| HTML · CSS · Tailwind CSS | MongoDB · PostgreSQL · MySQL | Figma · Firebase |
+| | Java · C++ · Oracle | |
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatopirtakhia&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,express,mongodb,postgres,mysql,docker,git,linux,figma,firebase,java,cpp&perline=9&theme=dark" alt="JavaScript, TypeScript, React, HTML, CSS, Tailwind, Node.js, Express, MongoDB, PostgreSQL, MySQL, Docker, Git, Linux, Figma, Firebase, Java, C++" />
 </p>
 
-<!-- Footer -->
-<h3 align="center">Thanks for visiting! 👋</h3>
+## GitHub in numbers
+
 <p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love" />
+  <a href="https://github.com/tatopirtakhia">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&rank_icon=github" alt="Tato's GitHub statistics" />
+  </a>
+  <a href="https://github.com/tatopirtakhia?tab=repositories">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatopirtakhia&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=16" alt="Most used languages in public repositories" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/tatopirtakhia">
+    <img width="75%" src="https://streak-stats.demolab.com/?user=tatopirtakhia&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=16" alt="Contribution streak: total contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+### The bigger picture
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatopirtakhia&theme=github_dark" alt="GitHub contribution summary and contribution timeline" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatopirtakhia&theme=github_dark" alt="Public repository distribution by language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tatopirtakhia&theme=github_dark" alt="Public commit distribution by language" />
+</p>
+
+### Recent contribution activity
+
+<p align="center">
+  <a href="https://github.com/tatopirtakhia">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tatopirtakhia&bg_color=0D1117&color=A78BFA&line=22D3EE&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&radius=16&custom_title=Tato%27s%20Contribution%20Activity" alt="Recent daily GitHub contribution activity" />
+  </a>
+</p>
+
+<sub>Cards refresh periodically and reflect the public data available to each provider. Language charts describe repository code and activity, rather than proficiency. Profile views count visits recorded by the badge provider.</sub>
+
+---
+
+<p align="center">
+  <strong>Have an idea we could build together?</strong><br />
+  <a href="https://www.linkedin.com/in/tato2000/">Say hello on LinkedIn</a> · <a href="https://github.com/tatopirtakhia?tab=repositories">Take a look at my projects</a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:22D3EE&height=100&section=footer" alt="Purple and cyan wave footer" />
