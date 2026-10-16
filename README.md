@@ -56,11 +56,11 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
   </a>
 </p>
 
-### Previous year · 2025
+### Activity archive · 2025
 
 <p align="center">
   <a href="https://github.com/tatopirtakhia?tab=overview&from=2025-01-01&to=2025-12-31">
-    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&commits_year=2025&number_format=long&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&custom_title=Public%20Commits%20%E2%80%94%202025" alt="Public commit contributions in 2025" />
+    <img src="https://img.shields.io/badge/View_2025_activity_on_GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View 2025 activity on GitHub" />
   </a>
 </p>
 
@@ -93,6 +93,7 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:22D3EE&height=100&section=footer" alt="Purple and cyan wave footer" />
+
 
 
 
