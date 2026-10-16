@@ -43,7 +43,7 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
 
 <p align="center">
   <a href="https://github.com/tatopirtakhia">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&number_format=long&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&rank_icon=github" alt="Tato's GitHub statistics" />
+    <img width="100%" src="assets/github-stats.svg" alt="Authenticated public and private GitHub commit contributions" />
   </a>
   <a href="https://github.com/tatopirtakhia?tab=repositories">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatopirtakhia&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=16" alt="Most used languages in public repositories" />
