@@ -1,5 +1,9 @@
 name: Update profile statistics
 on:
+  push:
+    paths:
+      - '.github/workflows/profile-stats.yml'
+      - 'scripts/update_stats.py'
   schedule:
     - cron: '23 4 * * *'
   workflow_dispatch:
