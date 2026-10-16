@@ -43,7 +43,7 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
 
 <p align="center">
   <a href="https://github.com/tatopirtakhia">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&rank_icon=github" alt="Tato's GitHub statistics" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&number_format=long&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&rank_icon=github" alt="Tato's GitHub statistics" />
   </a>
   <a href="https://github.com/tatopirtakhia?tab=repositories">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatopirtakhia&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_radius=16" alt="Most used languages in public repositories" />
@@ -53,6 +53,14 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
 <p align="center">
   <a href="https://github.com/tatopirtakhia">
     <img width="75%" src="https://streak-stats.demolab.com/?user=tatopirtakhia&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&border_radius=16" alt="Contribution streak: total contributions, current streak, and longest streak" />
+  </a>
+</p>
+
+### Previous year · 2025
+
+<p align="center">
+  <a href="https://github.com/tatopirtakhia?tab=overview&from=2025-01-01&to=2025-12-31">
+    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=tatopirtakhia&commits_year=2025&number_format=long&hide=stars,prs,issues,contribs&hide_rank=true&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&border_radius=16&custom_title=Public%20Commits%20%E2%80%94%202025" alt="Public commit contributions in 2025" />
   </a>
 </p>
 
@@ -85,4 +93,7 @@ I'm a full-stack developer from **Georgia 🇬🇪**, interested in the whole jo
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:6D28D9,100:22D3EE&height=100&section=footer" alt="Purple and cyan wave footer" />
+
+
+
 
